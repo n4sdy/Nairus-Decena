@@ -26,8 +26,8 @@ function Projects() {
             <ProjectCard 
                 src={cvsu} 
                 link="https://cvsu111.netlify.app/"
-                h3="CvSU Website"
-                p="Glasses Shop"
+                h3="CvSU Bacoor-Campus"
+                p="CvSU Website"
             />            
             <ProjectCard 
                 src={fitLift} 
