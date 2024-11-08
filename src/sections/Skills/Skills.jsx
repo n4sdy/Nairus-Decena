@@ -20,14 +20,6 @@ function Skills() {
           <SkillList src={checkMarkIcon} skill='PYTHON'/>
         </div>
         <hr />
-        <div className={styles.skillList}>
-          <SkillList src={checkMarkIcon} skill='MYSQL'/>
-          <SkillList src={checkMarkIcon} skill='PHP'/>
-          <SkillList src={checkMarkIcon} skill='MONGO DB'/>
-          <SkillList src={checkMarkIcon} skill='INKSCAPE'/>
-          <SkillList src={checkMarkIcon} skill='CRUD'/>
-        </div>
-        <hr />
     </section>
   );
 }
