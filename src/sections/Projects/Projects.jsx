@@ -28,13 +28,7 @@ function Projects() {
                 link="https://cvsu111.netlify.app/"
                 h3="CvSU Bacoor-Campus"
                 p="CvSU Website"
-            />            
-            <ProjectCard 
-                src={fitLift} 
-                link="https://github.com/n4sdy/Nairus-Decena"
-                h3="FitLift"
-                p="Fitness App"
-            />            
+            />                       
         </div>
     </section>
   )
